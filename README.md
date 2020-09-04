@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+!!!!Автор никогда не писал на react, это в первый раз
+
 ## Установка зависимостей
 
 ### `npm install`
