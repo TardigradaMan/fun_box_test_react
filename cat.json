@@ -1,0 +1,40 @@
+{
+  "feeds": [
+    {
+      "_id": "1",
+      "index": 0,
+      "volume": "0.5",
+      "description": "Сказочное заморское яство",
+      "descriptionOver": "Kоте не одобряет?",
+      "title": "фуа-гра",
+      "footerText": "Печень утки разварная с артишоками.",
+      "portion": "10",
+      "quantity": "1000",
+      "src": ""
+    },
+    {
+      "_id": "2",
+      "index": 0,
+      "volume": "2",
+      "description": "Сказочное заморское яство",
+      "descriptionOver": "Kоте не одобряет?",
+      "title": "рыбой",
+      "footerText": "Головы щучьи с чесноком да свежайшая сёмгушка.",
+      "portion": "40",
+      "quantity": "120",
+      "src": ""
+    },
+    {
+      "_id": "3",
+      "index": 0,
+      "volume": "5",
+      "description": "Сказочное заморское яство",
+      "descriptionOver": "Kоте не одобряет?",
+      "title": "курой",
+      "footerText": "Филе из цыплят с трюфелями в бульоне.",
+      "portion": "100",
+      "quantity": "0",
+      "src": ""
+    }
+  ]
+}

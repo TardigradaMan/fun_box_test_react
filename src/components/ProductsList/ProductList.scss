@@ -1,0 +1,26 @@
+@import '../../assets/styles/variables';
+
+.products {
+  &__preview {
+    color: #fff;
+  }
+  &__list {
+    height: 100%;
+    display: grid;
+    grid-template: 1fr / repeat(3, 320px);
+    justify-content: space-between;
+    gap: 60px;
+    @media screen and(max-width: $lg) {
+      gap: 25px;
+    }
+    @media screen and(max-width: $md) {
+      grid-template: 1fr / 1fr 1fr;
+      justify-content: space-around;
+      gap: 50px;
+      row-gap: 80px;
+    }
+    @media screen and(max-width: $sm) {
+      grid-template: auto / auto;
+    }
+  }
+}

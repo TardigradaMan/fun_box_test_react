@@ -1,0 +1,11 @@
+.loading {
+  height: calc(100vh - 103px);
+  text-align: center;
+  &__img {
+    max-width: 200px;
+    height: auto;
+  }
+  &__title {
+    color: #fff;
+  }
+}
