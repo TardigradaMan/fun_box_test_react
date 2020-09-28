@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### !!!Автор не знаком с react, это в первый опыт написания!!!
+### !!!Автор не знаком с react, это  первый опыт!!!
 
 
 1. Фон занимает всю площадь экрана, блок находится по центру вертикально и
